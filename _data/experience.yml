@@ -2,18 +2,11 @@
 # VP of Global Communications
 - company: Samsung Electronics, Memory Division
   position: Staff Engineer
-  duration: March, 2020 &mdash; Present
-  summary: Working as a data scientist dealing with semiconductor equipment data for productivity improvement and anomaly detection	<ul class="resume-item-list"><li>Data Science</li><li>Artificial Intelligence</li><li>Semiconductor</li></ul>
+  duration: Mar, 2020 &mdash; Present
+  summary: Working as a data scientist dealing with semiconductor equipment data for productivity improvement and anomaly detection	<ul class="resume-item-list"><li>Statistical analysis of semiconductor equipment sensor data</li><li>Development of deep learning model for anomaly detection</li><li>Project management of system development which embeds the developed deep learning model</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: American Bureau of Shipping
+  position: Intern
+  duration:  Jan, 2015 &mdash; Feb, 2015
+  summary: <ul class="resume-item-list"><li>Simulation of subsea electrical system</li></ul>
